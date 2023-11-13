@@ -1,7 +1,7 @@
 # Formulario de contacto
 ## stack
-Vite
-React
-CSS
+- Vite
+- React
+- CSS
 
 
