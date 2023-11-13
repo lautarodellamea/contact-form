@@ -1,4 +1,4 @@
-# Formulariod e contacto
+# Formulario de contacto
 ## stack
 Vite
 React
